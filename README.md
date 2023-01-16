@@ -1,5 +1,10 @@
 # PasswordProject
 
+This project developed with Angular(TypeScript) and Bulma library. Project is a password generator. Password generator ask you to your password lenght and include three options; alphabet,numbers,symbols. You type a password lenght and choose to your password charset, the password-generator will create random password for you... 
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
 ## Development server
